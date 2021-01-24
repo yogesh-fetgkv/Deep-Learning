@@ -1,2 +1,2 @@
-# Deep-Learning
-Assignment-1
+# Deep-Learning (AI-202)
+Assignments
